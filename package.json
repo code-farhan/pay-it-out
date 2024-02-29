@@ -1,0 +1,19 @@
+{
+  "name": "pay-it-out",
+  "version": "1.0.0",
+  "description": "Payouts Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-farhan/pay-it-out.git"
+  },
+  "author": "Farhan Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-farhan/pay-it-out/issues"
+  },
+  "homepage": "https://github.com/code-farhan/pay-it-out#readme"
+}
